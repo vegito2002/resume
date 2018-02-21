@@ -1,0 +1,149 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Medium Length Professional CV
+% LaTeX Template
+% Version 2.0 (8/5/13)
+%
+% This template has been downloaded from:
+% http://www.LaTeXTemplates.com
+%
+% Original author:
+% Trey Hunner (http://www.treyhunner.com/)
+%
+% Important note:
+% This template requires the resume.cls file to be in the same directory as the
+% .tex file. The resume.cls file provides the resume style used for structuring the
+% document.
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%----------------------------------------------------------------------------------------
+%	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
+%----------------------------------------------------------------------------------------
+
+\documentclass{resume} % Use the custom resume.cls style
+\usepackage{hyperref}
+\usepackage{fontawesome}
+
+\usepackage[left=0.35in,top=0.3in,right=0.35in,bottom=0.1in]{geometry} % Document margins
+
+\name{Qiang Zhang} % Your name
+\address{3333 North Charles Street, Baltimore, MD 21218 \\ (667) 212-6099 \\ vegito2002@gmail.com  \href{https://github.com/vegito2002}{\textcolor{blue}{\faGithub} \href{https://stackoverflow.com/users/7088096/qiang-zhang}{\textcolor{blue}{\faStackOverflow}}} \href{https://www.linkedin.com/in/qiang-zhang-855615117/}{\textcolor{blue}{\faLinkedinSquare}}} % Your address
+% \address{(408) 769-8746 \\ yifan.ge@outlook.com} % Your phone number and email
+
+\begin{document}
+
+%----------------------------------------------------------------------------------------
+%	EDUCATION SECTION
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{Education}
+{\bf Johns Hopkins University} \hfill {\bf Baltimore, MD} \\
+{Master of Science in Engineering (M.S.E.) in Computer Science} {\em GPA: 3.74/4.00} \hfill {Sept. 2016 - May 2018}
+
+{\bf Southeast University} \hfill {\bf Nanjing, China} \\
+{B.E. in Measuring Control Technology \& Instruments} {\em GPA: 3.1/4.0} \hfill {Aug. 2007 - Jun. 2011}
+\end{rSection}
+
+
+%----------------------------------------------------------------------------------------
+%	WORK EXPERIENCE SECTION
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{Experience}
+
+\begin{rSubsection}{Nanjing Institute of Measurement And Testing Technology}{2012 - 2014}{Calibrating Engineer}{Nanjing, China}
+\item Legally binding calibration and certification for over 8000 pieces of academic or industrial instruments.
+\item Automated workflow for the department resulting in significant productivity gain, and won Anual Best 10 Employee (out of 200+) of year 2013, an unprecedented achievement for a second year.
+\end{rSubsection}
+
+\begin{rSubsection}{Lab of Dr. Xu Li of Southeast University}{2012 - 2013}{Part-time Research Assistant}{Nanjing, China}
+\item Participation in project: Truck \& Train Motile Property Testing System.
+% \item Technical interviewer for Software Engineering roles.
+\end{rSubsection}
+%------------------------------------------------
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+%	PUBLICATIONS
+%----------------------------------------------------------------------------------------
+
+% \begin{rSection}{Publications and Presentations}
+% {\bf Oral Presentation:} Xi Zhou; {\bf Yifan Ge}; Xuxu Chen; Yinan Jing; Weiwei Sun; , {\em `A Distributed Cache Based Reliable Service Execution and Recovery Approach in MANETs'}, The 6th IEEE International Conference on Asia-Pacific Services Computing Conference, Jeju-do, South Korea, Dec. 2011.
+
+% {\bf Poster Presentation:} Xi Zhou; {\bf Yifan Ge}; Xuxu Chen; Yinan Jing; Weiwei Sun; , {\em `SMF: A Novel Lightweight Reliable Service Discovery Approach in MANET'}, The 7th International Conference on Wireless Communications, Networking and Mobile Computing, Wuhan, China, Sept. 2011.
+% \end{rSection}
+
+%----------------------------------------------------------------------------------------
+%	SELECTED PROJECTS
+%----------------------------------------------------------------------------------------
+\begin{rSection}{Project Highlights}
+
+\begin{rSubsection}{Survival Maps \href{https://github.com/cc941201/SurvivalMaps}{\textcolor{blue}{\faGithub}}}{Team: Guoye Zhang, {\bf Qiang Zhang}, Neha Kulkarni, Channing Kimble-Brown, Jeana Yee}{Bootstrap JavaSpark TravisCI Maven Heroku iOS sql2o JUnit SQLite MVC MapQuest RESTful}{2016, Baltimore, MD}
+\item Large-scale course project of OOSE where we, out of real-life concern built a navigation app that cares about security no less than speed, during a fully fleshed 6-iteration development: requirement analysis, design, implement, automated testing and deployment.
+\item Innovative features: crime heatmap, routing security preference, sensitivity to crime threat of different time of a day etc.
+\item Solely responsible for UML design; significant participation in back-end server design and implementation; primarily responsible for backend data processing and data source updating component.
+\item Designed a recursive algorithm to integrate inconsistent traffic data and crime data from different sources.
+\end{rSubsection}
+%--------------------------------
+\begin{rSubsection}{Multi Diff \href{https://github.com/vegito2002/multi-diff}{\textcolor{blue}{\faGithub}}}{Team: Guoye Zhang, {\bf Qiang Zhang}}{diff Algorithm HTML MinHash Maven ZIMPL}{2017, Baltimore, MD}
+\item We re-assess the legacy utility \texttt{diff} and augment it with additional feature and algorithmic enhancement.
+\item Developed new algorithm \texttt{BetterDiff} that intelligently retain bracket pairing while calculating edit distance.
+\item Enhanced the system to be able to track editting ancestry in large multi-file hierarchially structured file system, producing standard \texttt{diff} patch files or intuitive side-by-side visualization.
+\end{rSubsection}
+% %--------------------------------
+\begin{rSubsection}{HMM EM Tagger \href{https://github.com/vegito2002/hmm-em-tagger}{\textcolor{blue}{\faGithub}}}{Myself}{NLP Tagger Supervised-Learning Semi-Supervised-Learning HMM EM}{2017, Baltimore, MD}
+\item Compact implementation of a Hidden Markov model based tagger that can do not only supervised learning with viterbi decoding or posterior decoding, but also semi-supervised learning with expectation–maximization algorithm.
+\item Innovative optimization of word-similarity based tag dictionary pruning that speeds the tagger up by 50\% - 80\% depending on task.
+\end{rSubsection}
+% %--------------------------------
+\begin{rSubsection}{Padding Oracle Attack Demo \href{https://github.com/vegito2002/padding-oracle-attack-demo}{\textcolor{blue}{\faGithub}}}{Myself}{Cryptography Security HMAC SHA AES-CBC}{2017, Baltimore, MD}
+\item Down from scratch Golang implementation of a typical padding oracle attack process. Includes both an authenticated encryption component and the adversary component.
+\end{rSubsection}
+% %--------------------------------
+\end{rSection}
+%----------------------------------------------------------------------------------------
+%	TECHNICAL STRENGTHS SECTION
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{Technical Skills (in order of nonascending proficiency)}
+
+\begin{tabular}{ @{} >{\bfseries}l @{\hspace{3ex}} l }
+Languages & Java, Go, C, Python, SQL, Ocaml, Swift, JavaScript, jQuery \\
+Frameworks \& Platforms & JavaSpark, Flask \\
+Tools & Git, Sublime Text, \textsc{Latex}, Linux, shell, Microsoft Office, Intellij IDEA, MySQL
+\end{tabular}
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{Coursework Highlights (Graduate Level)}
+
+\begin{tabular}{l l l}
+Algorithms & Object Oriented Software Engineering (OOSE) & Databases \\
+Computer Networks & Principles of Programming Language & Declarative Methods \\
+Natural Language Processing & Practical Cryptographic Systems & Operating Systems & Machine Learning\\
+\end{tabular}
+\end{rSection}
+
+% %----------------------------------------------------------------------------------------
+% \begin{rSection}{Miscellaneous}
+% Native Chinese speaker
+
+% Section content\ldots
+
+% \end{rSection}
+
+%----------------------------------------------------------------------------------------
+%	
+%----------------------------------------------------------------------------------------
+
+%\begin{rSection}{Section Name}
+
+%Section content\ldots
+
+%\end{rSection}
+
+%----------------------------------------------------------------------------------------
+
+\end{document}
