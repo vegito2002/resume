@@ -18,10 +18,10 @@ I have finished so far **385/702** (ever increasing) problems so far:
 
 This is a [Google sheet](https://docs.google.com/spreadsheets/d/1gUy2JJZHuVxMAboYnXP9DME6kX-3EpBTuOPloZ1RfY0/edit#gid=786068196) that includes tracking information for part of my LeetCode practicing. 
 
-I did not major in Computer Science in my undergraduate program, but I make up for my lack of experience with diligence. Up till this moment, I have spent more than 700 hours on LeetCode, with throughly taken notes kept in this [Gitbook](https://www.gitbook.com/book/vegito2002/leetcode-notes/details).
+I did not major in Computer Science in my undergraduate program, but I make up for my lack of experience with diligence. Up till this moment, I have spent more than 700 hours on LeetCode, with throughly taken notes kept in this [**Gitbook**](https://www.gitbook.com/book/vegito2002/leetcode-notes/details).
 
 ## Currently Working On
 Currently I am
 * recapping knowledge about basics including Databases and Operating System.
 * self-learning System Design.
-* Learning to build a Spring and Hibernate based Web project to whet my industrial aptitude.
+* learning to build a Spring and Hibernate based Web project to whet my industrial aptitude.
