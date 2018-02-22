@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  21 FEB 2018 19:40
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  21 FEB 2018 20:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -218,20 +218,20 @@ LaTeX Warning: Unused global option(s):
 (./my-resume.aux)
 \openout1 = `my-resume.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
 
 (/usr/local/texlive/2017/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -248,7 +248,7 @@ LaTeX Font Info:    ... okay on input line 33.
 \everyMPtoPDFconversion=\toks18
 )
 \AtBeginShipoutBox=\box27
-Package hyperref Info: Link coloring OFF on input line 33.
+Package hyperref Info: Link coloring OFF on input line 32.
  (/usr/local/texlive/2017/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 
@@ -257,9 +257,9 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count107
 )
-LaTeX Info: Redefining \ref on input line 33.
-LaTeX Info: Redefining \pageref on input line 33.
-LaTeX Info: Redefining \nameref on input line 33.
+LaTeX Info: Redefining \ref on input line 32.
+LaTeX Info: Redefining \pageref on input line 32.
+LaTeX Info: Redefining \nameref on input line 32.
 
 (./my-resume.out) (./my-resume.out)
 \@outlinefile=\write3
@@ -301,72 +301,72 @@ LaTeX Info: Redefining \nameref on input line 33.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 33.
+(Font)              <7> on input line 32.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 33.
+(Font)              <5> on input line 32.
 LaTeX Font Info:    Try loading font information for U+fontawesometwo on input 
-line 33.
+line 32.
 (/usr/local/texlive/2017/texmf-dist/tex/latex/fontawesome/ufontawesometwo.fd
 File: ufontawesometwo.fd 2016/05/22 Font definitions for U/fontawesometwo.
 )
 LaTeX Font Info:    Try loading font information for U+fontawesomethree on inpu
-t line 33.
+t line 32.
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/fontawesome/ufontawesomethree.fd
 File: ufontawesomethree.fd 2016/05/22 Font definitions for U/fontawesomethree.
 )
-Overfull \hbox (30.0pt too wide) in paragraph at lines 33--33
+Overfull \hbox (30.0pt too wide) in paragraph at lines 32--32
 [] 
  []
 
 
-Overfull \hbox (30.72221pt too wide) in paragraph at lines 39--39
+Overfull \hbox (30.72221pt too wide) in paragraph at lines 38--38
 [][][][][][][]  
  []
 
 
-Overfull \hbox (30.72221pt too wide) in paragraph at lines 52--52
+Overfull \hbox (30.72221pt too wide) in paragraph at lines 51--51
 [][][][][][][]  
  []
 
 
-Overfull \hbox (30.72221pt too wide) in paragraph at lines 69--69
+Overfull \hbox (30.72221pt too wide) in paragraph at lines 68--68
 [][][][][][][]  
  []
 
 
 LaTeX Font Warning: Font shape `U/fontawesometwo/bx/n' undefined
-(Font)              using `U/fontawesometwo/m/n' instead on input line 71.
+(Font)              using `U/fontawesometwo/m/n' instead on input line 70.
 
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no “ in font cmr10!
 
-Overfull \hbox (30.72221pt too wide) in paragraph at lines 98--98
+Overfull \hbox (30.72221pt too wide) in paragraph at lines 97--97
 [][][][][][][]  
  []
 
 
-Overfull \hbox (30.72221pt too wide) in paragraph at lines 110--110
+Overfull \hbox (30.72221pt too wide) in paragraph at lines 109--109
 [][][][][][][]  
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 140.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 139.
 [1
 
 {/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 140.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 139.
 
 (./my-resume.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 140.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 140.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 139.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 139.
 Package rerunfilecheck Info: File `my-resume.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 140.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 139.
  ) 
 Here is how much of TeX's memory you used:
  7270 strings out of 492995
@@ -387,7 +387,7 @@ m/cmr10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/
 cmsy10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/c
 mti10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cm
 tt10.pfb>
-Output written on my-resume.pdf (1 page, 120163 bytes).
+Output written on my-resume.pdf (1 page, 120160 bytes).
 PDF statistics:
  56 PDF objects out of 1000 (max. 8388607)
  44 compressed objects within 1 object stream
