@@ -82,9 +82,6 @@ INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
 INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/fontawesome/ufontawesometwo.fd
 INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/fontawesome/ufontawesometwo.fd
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/fontawesome/FontAwesome--fontawesometwo.tfm
-INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/fontawesome/ufontawesomethree.fd
-INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/fontawesome/ufontawesomethree.fd
-INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/fontawesome/FontAwesome--fontawesomethree.tfm
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmcsc10.tfm
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmti10.tfm
@@ -93,7 +90,6 @@ INPUT /usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map
 INPUT my-resume.aux
 INPUT ./my-resume.out
 INPUT ./my-resume.out
-INPUT /usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/fontawesome/fontawesomethree.enc
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
