@@ -5,6 +5,8 @@ I am a Master of Science in Engineering student from Johns Hopkins University gu
 ## Resume
 This is my [**resume**](resume/my-resume.pdf). It's brief and covers basically everything including my school performance (GPA 3.74 in JHU so far) and a list courses I have taken.
 
+If you have an interview opportunity but requires a Cover Letter, feel free to contact me in any form listed here and I will respond promptly.
+
 ## Programming Interview Preparation
 I have been actively practicing on [Leetcode](https://leetcode.com/vegito2002gmailcom/) and have participated in several contests:
 
