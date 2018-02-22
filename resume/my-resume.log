@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  21 FEB 2018 15:08
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  21 FEB 2018 19:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -330,52 +330,43 @@ Overfull \hbox (30.72221pt too wide) in paragraph at lines 52--52
  []
 
 
-Overfull \hbox (30.72221pt too wide) in paragraph at lines 79--79
+Overfull \hbox (30.72221pt too wide) in paragraph at lines 69--69
 [][][][][][][]  
  []
 
 
 LaTeX Font Warning: Font shape `U/fontawesometwo/bx/n' undefined
-(Font)              using `U/fontawesometwo/m/n' instead on input line 81.
+(Font)              using `U/fontawesometwo/m/n' instead on input line 71.
 
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no “ in font cmr10!
 
-Overfull \hbox (30.72221pt too wide) in paragraph at lines 108--108
+Overfull \hbox (30.72221pt too wide) in paragraph at lines 98--98
 [][][][][][][]  
  []
 
 
-Overfull \hbox (30.72221pt too wide) in paragraph at lines 120--120
+Overfull \hbox (30.72221pt too wide) in paragraph at lines 110--110
 [][][][][][][]  
  []
 
-! Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.125 ...yptographic Systems & Operating Systems &
-                                                   Machine Learning\\
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 149.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 140.
 [1
 
 {/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 149.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 140.
 
 (./my-resume.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 149.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 149.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 140.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 140.
 Package rerunfilecheck Info: File `my-resume.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 149.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 140.
  ) 
 Here is how much of TeX's memory you used:
  7270 strings out of 492995
@@ -396,7 +387,7 @@ m/cmr10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/
 cmsy10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/c
 mti10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cm
 tt10.pfb>
-Output written on my-resume.pdf (1 page, 120100 bytes).
+Output written on my-resume.pdf (1 page, 120163 bytes).
 PDF statistics:
  56 PDF objects out of 1000 (max. 8388607)
  44 compressed objects within 1 object stream
