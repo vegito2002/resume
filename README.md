@@ -1,4 +1,4 @@
-# Cover Letter
+# Briefly About Me
 
 I am a Master of Science in Engineering student from Johns Hopkins University guaduating 2018 summer, and am actively seeking any job or interview opportunities. It includes my [Github](https://github.com/vegito2002) and [Linkedin](https://www.linkedin.com/in/qiang-zhang-855615117/) address.
 
