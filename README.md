@@ -1,9 +1,9 @@
 # Briefly About Me
 
-I am a Master of Science in Engineering in Computer Science student from Johns Hopkins University guaduating 2018 summer, and I am actively seeking any job or interview opportunities. It includes my [Github](https://github.com/vegito2002) and [Linkedin](https://www.linkedin.com/in/qiang-zhang-855615117/) address.
+I am a Master of Science in Engineering in Computer Science student from Johns Hopkins University guaduating 2018 summer, and I am actively seeking any job or interview opportunities. 
 
 ## Resume
-This is my [**resume**](resume/my-resume.pdf). It's brief and covers basically everything including my school performance (GPA 3.75 in JHU so far) and a list courses I have taken.
+This is my [**resume**](resume/my-resume.pdf). It's brief and covers basically everything including my school performance (GPA 3.75 in JHU so far) and a list courses I have taken. It includes my [Github](https://github.com/vegito2002) and [Linkedin](https://www.linkedin.com/in/qiang-zhang-855615117/) address.
 
 If you have an interview opportunity but requires a Cover Letter, feel free to contact me in any form listed here and I will respond promptly.
 
