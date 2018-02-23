@@ -3,7 +3,7 @@
 I am a Master of Science in Engineering in Computer Science student from Johns Hopkins University guaduating 2018 summer, and I am actively seeking any job or interview opportunities. 
 
 ## Resume
-This is my [**resume**](resume/my-resume.pdf). It's brief and covers basically everything including my school performance (GPA 3.75 in JHU so far) and a list courses I have taken. It includes my [Github](https://github.com/vegito2002) and [Linkedin](https://www.linkedin.com/in/qiang-zhang-855615117/) address.
+This is my [**resume**](resume/my-resume.pdf). It's brief and covers basically everything including my school performance (GPA 3.75 in JHU so far) and a list of courses I have taken. It includes my [Github](https://github.com/vegito2002) and [Linkedin](https://www.linkedin.com/in/qiang-zhang-855615117/) address.
 
 If you have an interview opportunity but requires a Cover Letter, feel free to contact me in any form listed here and I will respond promptly.
 
@@ -20,7 +20,7 @@ I have finished so far **385/702** (ever increasing) problems so far:
 
 This is a [Google sheet](https://docs.google.com/spreadsheets/d/1gUy2JJZHuVxMAboYnXP9DME6kX-3EpBTuOPloZ1RfY0/edit#gid=786068196) that includes tracking information for part of my LeetCode practicing. 
 
-I did not major in Computer Science in my undergraduate program, but I make up for my lack of experience with diligence. Up till this moment, I have spent more than 700 hours on LeetCode, with throughly taken notes kept in this [**Gitbook**](https://www.gitbook.com/book/vegito2002/leetcode-notes/details).
+I did not major in Computer Science in my undergraduate program, but I make up for my lack of experience with diligence during my Master's program in CS. Up till this moment, I have spent more than 700 hours on LeetCode, with throughly taken notes kept in this [**Gitbook**](https://www.gitbook.com/book/vegito2002/leetcode-notes/details).
 
 ## Currently Working On
 Currently I am
