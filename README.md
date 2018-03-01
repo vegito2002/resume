@@ -8,11 +8,11 @@ This is my [**resume**](resume/my-resume.pdf). It's brief and covers basically e
 If you have an interview opportunity but requires a Cover Letter, feel free to contact me in any form listed here and I will respond promptly.
 
 ## Programming Interview Preparation
-I have been actively practicing on [Leetcode](https://leetcode.com/vegito2002gmailcom/) and have participated in several contests:
+I have been actively practicing on [Leetcode](https://leetcode.com/vegito2002gmailcom/) and have participated in several contests, highest global rank in history is 1770/40000+:
 
 <img src="https://www.dropbox.com/s/6q3cgrpfpoemi8k/Screenshot%202018-02-21%2020.08.04.png?raw=1" width="800">
 
-I have finished so far **385/702** (ever increasing) problems so far:
+I have finished so far **394/706** (ever increasing) problems so far (this number is more updated than pictures shown in this page):
 
 <img src="https://www.dropbox.com/s/yjz95dii20xvgx0/Screenshot%202018-02-21%2020.09.00.png?raw=1" width="300">
 
