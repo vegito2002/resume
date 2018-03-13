@@ -12,7 +12,7 @@ I have been actively practicing on [Leetcode](https://leetcode.com/vegito2002gma
 
 <img src="https://www.dropbox.com/s/6q3cgrpfpoemi8k/Screenshot%202018-02-21%2020.08.04.png?raw=1" width="800">
 
-I have finished so far **394/706** (ever increasing) problems so far (this number is more updated than pictures shown in this page):
+I have finished so far **404/714** (ever increasing) problems so far (this number is more updated than pictures shown in this page):
 
 <img src="https://www.dropbox.com/s/yjz95dii20xvgx0/Screenshot%202018-02-21%2020.09.00.png?raw=1" width="300">
 
