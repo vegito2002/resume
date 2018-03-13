@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1520295388 "my-resume.tex" "my-resume.pdf" "my-resume" 1520295388
+["pdflatex"] 1520912358 "my-resume.tex" "my-resume.pdf" "my-resume" 1520912359
   "/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc" 1480098667 2679 32dd8ae231bf4a0752b98f62dc097183 ""
   "/usr/local/texlive/2017/texmf-dist/fonts/map/fontname/texfonts.map" 1480098670 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1480098701 1328 c834bbb027764024c09d3d2bf908b5f0 ""
@@ -51,12 +51,12 @@
   "/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1495593472 2350277 a699055bee05bf8a40b0504752487295 ""
   "/usr/local/texlive/2017/texmf-var/web2c/pdftex/pdflatex.fmt" 1495593487 4129592 0e6cfee100d68e6d96b92c0258f2ff73 ""
   "/usr/local/texlive/2017/texmf.cnf" 1495593465 577 2b71d4d888f9e5560b2e99985915a9fa ""
-  "my-resume.aux" 1520295388 662 b2b94621371df8d9296b8bf5bec1b851 ""
-  "my-resume.out" 1520295388 0 d41d8cd98f00b204e9800998ecf8427e ""
-  "my-resume.tex" 1520295387 7427 b1e00d4c77e03ad1d8572fc700d9bded ""
+  "my-resume.aux" 1520912359 662 b2b94621371df8d9296b8bf5bec1b851 ""
+  "my-resume.out" 1520912359 0 d41d8cd98f00b204e9800998ecf8427e ""
+  "my-resume.tex" 1520912358 7427 a9307acb64e372ed1dbd1fc62a611b16 ""
   "resume.cls" 1519003616 5034 548fe11139c8b3904021084def5814e6 ""
   (generated)
-  "my-resume.log"
-  "my-resume.aux"
-  "my-resume.pdf"
   "my-resume.out"
+  "my-resume.aux"
+  "my-resume.log"
+  "my-resume.pdf"
