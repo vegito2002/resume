@@ -14,7 +14,7 @@ I have been actively practicing on [Leetcode](https://leetcode.com/vegito2002gma
 
 <img src="https://www.dropbox.com/s/hmuwgzzl33skogb/Screenshot%202018-03-12%2023.45.03.png?raw=1" width="800">
 
-I have finished so far **404/714** (ever increasing) problems so far (this number is more updated than pictures shown in this page):
+I have finished so far **413 / 777** (ever increasing) problems so far (this number is more updated than pictures shown in this page):
 
 <img src="https://www.dropbox.com/s/ka8po3j7c9b854w/Screenshot%202018-03-12%2023.45.31.png?raw=1" width="300">
 
