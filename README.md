@@ -10,7 +10,7 @@ It's worth mentioning that aside from pragmatic interview preparation, I have al
 If you have an interview opportunity but requires a Cover Letter, feel free to contact me in any form listed here and I will respond promptly.
 
 ## Programming Interview Preparation
-I have been actively practicing on [Leetcode](https://leetcode.com/vegito2002gmailcom/) and have participated in several contests, highest global rank in history is 1770/40000+:
+I have been actively practicing on [Leetcode](https://leetcode.com/vegito2002gmailcom/) and have participated in several contests, highest global rank in history is 1703 / 43575:
 
 <img src="https://www.dropbox.com/s/hmuwgzzl33skogb/Screenshot%202018-03-12%2023.45.03.png?raw=1" width="800">
 
