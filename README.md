@@ -25,6 +25,27 @@ This is a [Google sheet](https://docs.google.com/spreadsheets/d/1gUy2JJZHuVxMAbo
 
 I did not major in Computer Science in my undergraduate program, but I make up for my lack of experience with diligence during my Master's program in CS. Up till this moment, I have spent more than 700 hours on LeetCode, with throughly taken notes kept in this [**Gitbook**](https://www.gitbook.com/book/vegito2002/leetcode-notes/details).
 
+## Books I Have Read (only listed those relevant to CS)
+These are books I have read in the two years of my Master's program:
+* Computer Networking - A Top-Down Approach (6th Edition)
+* Constraint Logic Programming Using Eclipse
+* Database System Concepts(6th.Edition)
+* Design Patterns Explained Simply
+* Designing Data Intensive Applications[1p3a-system-design] (**reading**)
+* Effective Java 3rd Edition (**to read soon**)
+* HTTP The Definitive Guide (**to read soon**)
+* Head First Design Patterns
+* Head First Java 2nd Edition
+* Head First Object Oriented Analysis and Design
+* Introduction to Algorithms (Third Edition)
+* Linux System Programming (**to read soon**)
+* Operating Systems Three Easy Pieces v091
+* Principle Of Programming Language
+* Real World OCaml
+* Refactoring-Improving the Design of Existing Code
+* Sedgewick-Algorithms (4th Edition)
+* The C Programming Language 2nd
+
 ## Currently Working On
 Currently I am
 * recapping fundamental knowledges on:
