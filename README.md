@@ -10,15 +10,16 @@ It's worth mentioning that aside from pragmatic interview preparation, I have al
 If you have an interview opportunity but requires a Cover Letter, feel free to contact me in any form listed here and I will respond promptly.
 
 ## Programming Interview Preparation
-I have been actively practicing on [Leetcode](https://leetcode.com/vegito2002gmailcom/) and have participated in several contests, highest global rank in history is 1703 / 43575:
+I have been actively practicing on [Leetcode](https://leetcode.com/vegito2002gmailcom/) and have been participating in LeetCode weekly contests. My highest global rank in history is 1703 / 43575:
 
 <img src="https://www.dropbox.com/s/hmuwgzzl33skogb/Screenshot%202018-03-12%2023.45.03.png?raw=1" width="800">
 
-I have finished so far **413 / 777** (ever increasing) problems so far (this number is more updated than pictures shown in this page):
+I have finished so far **417 / 722** (ever increasing) algorithmic problems so far (*this number is more updated than that shown in the picture above*).   
+I have to stress that I not only put significant effort into practicing my own skills on algorithmic design and analysis, but also value communicating my ideas with other competitive coders. Currently I have earned ** ★171 ** reputation (ever growing) in the LeetCode discuss community, as shown in [this post](https://leetcode.com/problems/cheapest-flights-within-k-stops/discuss/115490/JAVA-Adapted-Dijkstra's-algorithm-solution:-easy-and-explained).
 
-<img src="https://www.dropbox.com/s/ka8po3j7c9b854w/Screenshot%202018-03-12%2023.45.31.png?raw=1" width="300">
+<img src="https://www.dropbox.com/s/vz60m29t61zp6z5/Screenshot%202018-03-26%2022.11.50.png?raw=1" width="300">
 
-<img src="https://www.dropbox.com/s/q9wew786lbh8221/Screenshot%202018-03-12%2023.45.38.png?raw=1" width="300">
+<img src="https://www.dropbox.com/s/q92b3ccv94gckvf/Screenshot%202018-03-26%2022.12.07.png?raw=1" width="300">
 
 This is a [Google sheet](https://docs.google.com/spreadsheets/d/1gUy2JJZHuVxMAboYnXP9DME6kX-3EpBTuOPloZ1RfY0/edit#gid=786068196) that includes tracking information for part of my LeetCode practicing. 
 
@@ -26,6 +27,12 @@ I did not major in Computer Science in my undergraduate program, but I make up f
 
 ## Currently Working On
 Currently I am
-* recapping knowledge about basics including Databases and Operating System.
-* self-learning System Design.
-* learning to build a Spring and Hibernate based Web project to whet my industrial aptitude.
+* recapping fundamental knowledges on:
+    * computer networking
+    * database
+    * operating system and Linux system programming
+    * Design patterns
+    * Java in depth
+* learning system design.
+* taking Udemy courses on Spring/Hibernate/Maven/Hibernate/Flask/React/Node.js/iOS11
+* taking a JHU offered course on Machine Learning
