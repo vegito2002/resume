@@ -57,5 +57,3 @@ Currently I am
 * learning system design.
 * taking Udemy courses on Spring/Hibernate/Maven/Hibernate/Flask/React/Node.js/iOS11
 * taking a JHU offered course on Machine Learning
-
-![](http://i67.tinypic.com/2cr60ci.png)
