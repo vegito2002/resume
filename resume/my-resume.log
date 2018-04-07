@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  5 APR 2018 00:41
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  6 APR 2018 20:05
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -365,11 +365,11 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 140.
 Here is how much of TeX's memory you used:
  7261 strings out of 492995
  104494 string characters out of 6132704
- 205047 words of memory out of 5000000
+ 204047 words of memory out of 5000000
  10787 multiletter control sequences out of 15000+600000
  5684 words of font info for 21 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 30i,6n,38p,279b,316s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 30i,6n,38p,309b,316s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometw
 o.enc}</usr/local/texlive/2017/texmf-dist/fonts/type1/public/fontawesome/FontAw
 esome.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cm
@@ -380,7 +380,7 @@ c10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr1
 .pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.
 pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.p
 fb>
-Output written on my-resume.pdf (1 page, 120283 bytes).
+Output written on my-resume.pdf (1 page, 119723 bytes).
 PDF statistics:
  46 PDF objects out of 1000 (max. 8388607)
  34 compressed objects within 1 object stream

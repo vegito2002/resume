@@ -31,14 +31,14 @@ These are books I have read in the two years of my Master's program:
 * Constraint Logic Programming Using Eclipse
 * Database System Concepts(6th.Edition)
 * Design Patterns Explained Simply
-* Designing Data Intensive Applications[1p3a-system-design] (**reading**)
+* Designing Data Intensive Applications
 * Effective Java 3rd Edition (**to read soon**)
 * HTTP The Definitive Guide (**to read soon**)
 * Head First Design Patterns
 * Head First Java 2nd Edition
 * Head First Object Oriented Analysis and Design
 * Introduction to Algorithms (Third Edition)
-* Linux System Programming (**to read soon**)
+* Linux System Programming  (**reading**)
 * Operating Systems Three Easy Pieces v091
 * Principle Of Programming Language
 * Real World OCaml
