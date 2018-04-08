@@ -21,8 +21,6 @@ I have to stress that I not only put significant effort into practicing my own s
 
 <img src="https://www.dropbox.com/s/q92b3ccv94gckvf/Screenshot%202018-03-26%2022.12.07.png?raw=1" width="300">
 
-This is a [Google sheet](https://docs.google.com/spreadsheets/d/1gUy2JJZHuVxMAboYnXP9DME6kX-3EpBTuOPloZ1RfY0/edit#gid=786068196) that includes tracking information for part of my LeetCode practicing. 
-
 I did not major in Computer Science in my undergraduate program, but I make up for my lack of experience with diligence during my Master's program in CS. Up till this moment, I have spent more than 700 hours on LeetCode, with throughly taken notes kept in this [**Gitbook**](https://www.gitbook.com/book/vegito2002/leetcode-notes/details).
 
 ## Books I Have Read (only listed those relevant to CS)
