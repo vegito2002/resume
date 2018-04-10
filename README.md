@@ -36,7 +36,8 @@ These are books I have read in the two years of my Master's program:
 * Head First Java 2nd Edition
 * Head First Object Oriented Analysis and Design
 * Introduction to Algorithms (Third Edition)
-* Linux System Programming  (**reading**)
+* Java Performance (**reading**)
+* Linux System Programming
 * Operating Systems Three Easy Pieces v091
 * Principle Of Programming Language
 * Real World OCaml
