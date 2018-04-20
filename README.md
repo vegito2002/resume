@@ -15,13 +15,13 @@ I have been actively practicing on [Leetcode](https://leetcode.com/vegito2002gma
 <img src="https://www.dropbox.com/s/hmuwgzzl33skogb/Screenshot%202018-03-12%2023.45.03.png?raw=1" width="800">
 
 I have finished so far **427 / 734** (ever increasing) algorithmic problems so far (*this number is more updated than that shown in the picture above*).   
-I have to stress that I not only put significant effort into practicing my own skills on algorithmic design and analysis, but also value communicating my ideas with other competitive coders. Currently I have earned ** ★201 ** reputation (ever growing) in the LeetCode discuss community, as shown in [this post](https://leetcode.com/problems/cheapest-flights-within-k-stops/discuss/115490/JAVA-Adapted-Dijkstra's-algorithm-solution:-easy-and-explained).
+I have to stress that I not only put significant effort into practicing my own skills on algorithmic design and analysis, but also value communicating my ideas with other competitive coders. Currently I have earned **★201** reputation (ever growing) in the LeetCode discuss community, as shown in [this post](https://leetcode.com/problems/cheapest-flights-within-k-stops/discuss/115490/JAVA-Adapted-Dijkstra's-algorithm-solution:-easy-and-explained).
 
 <img src="https://www.dropbox.com/s/vz60m29t61zp6z5/Screenshot%202018-03-26%2022.11.50.png?raw=1" width="300">
 
 <img src="https://www.dropbox.com/s/q92b3ccv94gckvf/Screenshot%202018-03-26%2022.12.07.png?raw=1" width="300">
 
-I did not major in Computer Science in my undergraduate program, but I make up for my lack of experience with diligence during my Master's program in CS. Up till this moment, I have spent more than 700 hours on LeetCode, with throughly taken notes kept in this [**Gitbook**](https://www.gitbook.com/book/vegito2002/leetcode-notes/details).
+I did not major in Computer Science in my undergraduate program, but I make up for my lack of experience with diligence during my Master's program in CS. Up till this moment, I have spent more than 800 hours on LeetCode, with throughly taken notes kept in this [**Gitbook**](https://www.gitbook.com/book/vegito2002/leetcode-notes/details).
 
 ## Books I Have Read (only listed those relevant to CS)
 These are books I have read in the two years of my Master's program:
