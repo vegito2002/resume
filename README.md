@@ -12,14 +12,14 @@ If you have an interview opportunity but requires a Cover Letter, feel free to c
 ## Programming Interview Preparation
 I have been actively practicing on [Leetcode](https://leetcode.com/vegito2002gmailcom/) and have been participating in LeetCode weekly contests. My highest global rank in history is 1703 / 43575:
 
-<img src="https://www.dropbox.com/s/hmuwgzzl33skogb/Screenshot%202018-03-12%2023.45.03.png?raw=1" width="800">
+<img src="https://www.dropbox.com/s/bbslv618fqu4n75/Screenshot%202018-04-22%2001.44.47.png?raw=1" width="800">
 
-I have finished so far **427 / 734** (ever increasing) algorithmic problems so far (*this number is more updated than that shown in the picture above*).   
-I have to stress that I not only put significant effort into practicing my own skills on algorithmic design and analysis, but also value communicating my ideas with other competitive coders. Currently I have earned **★201** reputation (ever growing) in the LeetCode discuss community, as shown in [this post](https://leetcode.com/problems/cheapest-flights-within-k-stops/discuss/115490/JAVA-Adapted-Dijkstra's-algorithm-solution:-easy-and-explained).
+I have finished so far **432 / 738** (ever increasing) algorithmic problems so far (*this number is more updated than that shown in the picture above*).   
+I have to stress that I not only put significant effort into practicing my own skills on algorithmic design and analysis, but also value communicating my ideas with other competitive coders. Currently I have earned **★205** reputation (ever growing) in the LeetCode discuss community, as shown in [this post](https://leetcode.com/problems/cheapest-flights-within-k-stops/discuss/115490/JAVA-Adapted-Dijkstra's-algorithm-solution:-easy-and-explained).
 
-<img src="https://www.dropbox.com/s/vz60m29t61zp6z5/Screenshot%202018-03-26%2022.11.50.png?raw=1" width="300">
+<img src="https://www.dropbox.com/s/5c3330iuummbknv/Screenshot%202018-04-22%2001.45.03.png?raw=1" width="300">
 
-<img src="https://www.dropbox.com/s/q92b3ccv94gckvf/Screenshot%202018-03-26%2022.12.07.png?raw=1" width="300">
+<img src="https://www.dropbox.com/s/bz103tsndt3jt78/Screenshot%202018-04-22%2001.45.19.png?raw=1" width="300">
 
 I did not major in Computer Science in my undergraduate program, but I make up for my lack of experience with diligence during my Master's program in CS. Up till this moment, I have spent more than 800 hours on LeetCode, with throughly taken notes kept in this [**Gitbook**](https://www.gitbook.com/book/vegito2002/leetcode-notes/details).
 
